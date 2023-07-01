@@ -1,2 +1,2 @@
-def testing():
+def add():
   print("testing)

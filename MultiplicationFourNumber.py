@@ -1,5 +1,6 @@
 def multiplicationm():
-  print("This should create merge conflict")
+  print("multiplyHere")
+
 
 def multiplicationByPrinal():
-  print("multiplyHere)
+  print("multiplyHere")

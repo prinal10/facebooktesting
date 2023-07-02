@@ -4,4 +4,3 @@ def multiplicationm():
 
 def multiplicationByPrinal():
   print("multiplyHere")
-  print("multiplyHere")
